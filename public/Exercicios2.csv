@@ -1,0 +1,65 @@
+Qual foi a descoberta de Spallanzani em 1794 que contribuiu para os princípios da ultrassonografia?,A orientação dos morcegos através de ondas sonoras.
+Identifique a descoberta científica de Pierre e Jacques Curie em 1880 essencial para a tecnologia de ultrassom.,O efeito piezoelétrico.
+Em que ano e por quem foi introduzido o uso do ultrassom na medicina?,"Em 1942, por Dussik."
+O que motivou a investigação de Richardson em 1912 sobre a deteção de objetos submersos?,O naufrágio do Titanic.
+Qual é o fenómeno físico fundamental no qual se baseia a formação de imagem na ultrassonografia?,A reflexão do som.
+Quais são os três componentes principais do processo de ultrassonografia para gerar um diagnóstico?,"Fonte produtora de som, deteção do som e processamento da imagem."
+Por que razão a ultrassonografia é considerada um exame não invasivo e seguro?,Porque não utiliza radiação ionizante nem possui efeitos nocivos conhecidos.
+Qual é o tempo de jejum recomendado para um exame de ultrassom abdominal em pequenos animais e qual o seu objetivo?,"8 horas, para reduzir a presença de alimento e gás no trato gastrointestinal."
+De que forma a ingestão de leite pode prejudicar a qualidade de uma ultrassonografia?,"Pode aumentar a quantidade de gases intestinais, dificultando a passagem do som."
+Por que motivo se recomenda que o paciente não urine 1 a 2 horas antes de uma ultrassonografia abdominal?,A bexiga repleta serve como janela acústica para visualizar órgãos hipogástricos e pélvicos.
+Quais são os três passos preparatórios físicos essenciais na pele do animal antes de iniciar o exame de ultrassom?,"Tricotomia (tosquia), contenção e aplicação de gel acoplador."
+Cite quatro parâmetros avaliados durante a análise ultrassonográfica de um órgão sólido.,"Posição, tamanho, forma e ecogenicidade."
+Diferencie o foco da Tomografia Computorizada ($TAC$) em relação à Radiografia convencional.,A $TAC$ utiliza um tubo de raios-X rotativo para criar cortes transversais em vez de imagens bidimensionais estáticas.
+O que define o ângulo de inclinação do disco do ânodo rotativo num tubo de raios-X?,"O ângulo, geralmente entre $11^{\circ}$ e $15^{\circ}$, direciona os raios-X para o paciente."
+Qual é a consequência mecânica imediata se os rolamentos do rotor de um tubo de raios-X encravarem?,"O calor concentra-se num único ponto (focal spot), fundindo ou rachando o ânodo."
+Explique o conceito de coeficiente de atenuação na formação de imagem por raios-X.,É a medição da absorção do feixe de radiação por cada tecido específico de acordo com a sua densidade.
+Por que razão o osso aparece branco numa imagem de $TAC$ ou radiografia?,"Devido à sua elevada densidade, o osso atenua (absorve) mais radiação que os tecidos moles."
+O que são 'voxels' no contexto da reconstrução de imagem em $TAC$?,São unidades tridimensionais de volume que compõem a imagem seccional reconstruída pelo computador.
+Qual é a principal vantagem da utilização de meios de contraste iodados em exames de $TAC$ abdominal?,"Permitem realçar a visualização de veias, artérias e a morfologia de órgãos parenquimatosos."
+Defina 'mielograma' no contexto de diagnóstico por imagem avançado.,Injeção de contraste no canal espinal para demonstrar patologias ou compressões da medula espinal.
+Qual é o princípio fundamental da Ressonância Magnética ($RM$) para determinar a composição química dos tecidos?,A utilização de campos magnéticos e radiofrequências para manipular os átomos de hidrogénio.
+Por que razão a $RM$ é superior à $TAC$ na avaliação do sistema nervoso central?,"Oferece um contraste de tecidos moles muito superior, detalhando melhor o cérebro e a medula espinal."
+Qual é o perigo físico mais crítico para o pessoal que entra numa sala de Ressonância Magnética?,"O efeito projétil, onde objetos metálicos são lançados violentamente em direção ao íman."
+Explique o funcionamento da Gaiola de Faraday numa sala de Ressonância Magnética.,Serve para blindar a sala contra sinais de rádio externos que causariam artefactos na imagem.
+O íman de uma unidade de Ressonância Magnética pode ser desligado facilmente?,"Não, o campo magnético está permanentemente ativo, mesmo quando não se realizam exames."
+Qual é a função dos 'gradientes' ($gradient\ coils$) num sistema de $RM$?,Produzem variações controladas no campo magnético para permitir a localização espacial dos sinais.
+Defina a Equação de Larmor no contexto da física da $RM$.,Calcula a frequência de precessão dos átomos (frequência de rádio) necessária para a ressonância num determinado campo magnético.
+Por que razão os pacientes animais podem necessitar de sacos de gelo durante uma $RM$ de alto campo?,"Para ajudar a dissipar o calor corporal gerado pelas ondas de radiofrequência, já que os animais não transpiram como os humanos."
+O que mede o rácio $SAR$ ($Specific\ Absorption\ Rate$) na segurança da $RM$?,"A taxa de energia de radiofrequência absorvida pelo corpo do paciente, baseada na sua massa."
+Por que é obrigatória a proteção auricular (tampões ou auscultadores) durante uma Ressonância Magnética?,"Devido ao ruído acústico extremo produzido pelos gradientes, que pode exceder os $90\ dB$."
+Qual é o procedimento de segurança obrigatório se houver suspeita de fragmentos metálicos desconhecidos num animal antes da $RM$?,Realizar radiografias prévias para localizar metais que poderiam migrar ou aquecer durante o exame.
+Como difere a Medicina Nuclear da Radiografia convencional no que toca à fonte de radiação?,"Na Medicina Nuclear o paciente é o emissor da radiação (após injeção de isótopos), enquanto na Radiografia o tubo é o emissor."
+Qual é o radioisótopo mais comummente utilizado na cintigrafia óssea veterinária?,Tecnécio-$99m$ ($Tc-99m$).
+O que avalia a Medicina Nuclear que a $TAC$ e a Radiografia não conseguem avaliar diretamente?,"A função fisiológica ou o metabolismo de um tecido, em vez de apenas a sua forma anatómica."
+Para que patologia específica se utiliza frequentemente o Iodo-$131$ em Medicina Nuclear?,Avaliação e tratamento de doenças da glândula tiroide.
+Explique o processo de aniquilação que ocorre num exame de $PET$ ($Positron\ Emission\ Tomography$).,"Um positrão colide com um eletrão, emitindo dois fotões gama em direções opostas ($180^{\circ}$)."
+Qual é a principal limitação logística do radioisótopo $FDG$ utilizado em $PET$?,"A sua meia-vida curta (aprox. $110$ minutos), exigindo proximidade entre a produção e o local do exame."
+Que tipo de informação fornece a fusão de imagens $PET/CT$?,Combina a alta resolução anatómica da $TAC$ com a informação metabólica precisa do $PET$.
+Qual é o cuidado crítico no maneio de um animal após um exame de Medicina Nuclear?,O isolamento em instalações próprias e o maneio cauteloso das excreções (urina) devido à radioatividade residual.
+O meio de contraste Gadolínio é utilizado em que modalidade e com que propósito?,"Na Ressonância Magnética, para realçar tumores, inflamações ou vascularização em imagens $T1$."
+Diferencie a imagem de $RM$ ponderada em $T1$ de uma imagem ponderada em $T2$ em termos de fluidos.,"Em $T1$ os fluidos aparecem escuros, enquanto em $T2$ os fluidos (como o $LCR$) aparecem brancos."
+O que indica a presença de um 'hot spot' (ponto quente) numa cintigrafia óssea?,"Uma área de atividade metabólica ou remodelação óssea aumentada, comum em fraturas ou inflamações."
+Por que razão a anestesia geral é quase sempre obrigatória para $TAC$ e $RM$ em medicina veterinária?,"Para garantir a imobilidade absoluta do paciente, essencial para evitar artefactos de movimento na reconstrução 3D."
+Qual é o principal risco de um implante ferromagnético num paciente submetido a $RM$?,"O implante pode sofrer torção (deslocamento) ou aquecimento excessivo, causando lesões internas."
+"Em ultrassonografia, o que caracteriza a 'ecotextura' de um órgão?",O padrão de distribuição e granulosidade dos ecos internos do tecido parenquimatoso.
+O que significa a sigla $AFAST$ em medicina de emergência veterinária?,$Abdominal\ Focused\ Assessment\ with\ Sonography\ for\ Trauma$ (Avaliação abdominal focada com ultrassonografia para trauma).
+Em que situações clínicas se justifica o uso de ultrassonografia ocular?,"Quando existe opacidade dos meios (cataratas, hifema) que impede a observação direta da retina."
+Qual é a utilidade da Ecoencefalografia?,Avaliação do parênquima cerebral através de fontanelas abertas em animais jovens.
+Quais são as janelas acústicas típicas pesquisadas no protocolo $TFAST$?,Zonas pleurais e pericárdicas para deteção de efusões ou pneumotórax.
+"Na $TAC$, por que é necessário o uso de colimadores?",Para restringir o feixe de raios-X à espessura de corte desejada e reduzir a radiação dispersa.
+Termo: Pixel.,Definição: Elemento bidimensional de uma matriz de imagem que representa uma densidade média de tecido.
+O que é o 'Hounsfield Unit' ($HU$) na Tomografia Computorizada?,"Uma escala numérica que quantifica a densidade relativa dos tecidos (ex: água = $0$, ar = $-1000$)."
+Qual é a via de administração exclusiva para agentes de contraste à base de Gadolínio ($GBCA$)?,Via intravenosa.
+Como a obesidade de um paciente animal pode afetar a interpretação de radiografias torácicas?,"Pode causar uma subventilação, levando a uma falsa interpretação de padrões alveolares ou intersticiais."
+"No contexto da $TAC$, o que determina a resolução da imagem?","O tamanho do pixel; quanto menor o pixel, maior a resolução espacial da imagem."
+Qual é o objetivo principal do protocolo $AFAST$ na triagem de emergência?,"Identificar rapidamente a presença de líquido livre (sangue, urina, efusão) nas cavidades peritoneais."
+Por que razão os pacientes com insuficiência renal requerem cautela extrema antes de realizar uma $TAC$ com contraste?,Os meios de contraste iodados são nefrotóxicos e podem agravar a lesão renal pré-existente.
+Defina o termo 'meia-vida' de um radioisótopo.,O tempo necessário para que a atividade radioativa de uma substância se reduza a metade do seu valor inicial.
+O que avalia especificamente a Ecocardiografia Doppler?,A velocidade e a direção do fluxo sanguíneo dentro das câmaras cardíacas e vasos.
+Qual é a principal contraindicação para o uso de ar como contraste negativo numa cistografia em pacientes com hematúria?,Risco de embolia gasosa se o gás entrar na circulação através de vasos rotos na bexiga.
+Por que é crucial remover coleiras e trelas metálicas antes de qualquer exame de $TAC$?,Para evitar artefactos metálicos em 'estrela' que obscurecem a anatomia circundante na imagem.
+"Em Medicina Nuclear, o detetor da radiação é designado por _____.",Câmara gama (ou câmara de cintilação).
+O que diferencia um transdutor de ultrassom de alta frequência de um de baixa frequência?,Alta frequência oferece melhor resolução mas menor penetração; baixa frequência penetra mais fundo mas com menor detalhe.
+Qual é a importância da tricotomia ampla na ultrassonografia abdominal?,"Eliminar o ar aprisionado entre os pelos, que é um potente isolante acústico e impede a formação de imagem."
+"No contexto da segurança em Medicina Nuclear, que cuidado deve ter o técnico com a urina do paciente nas primeiras 24 horas?","Usar luvas e proteção, pois a urina é a principal via de excreção do isótopo radioativo."

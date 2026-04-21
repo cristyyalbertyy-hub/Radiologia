@@ -1,0 +1,72 @@
+.exercises {
+  flex: 1;
+  width: min(100%, 40rem);
+  margin: 0 auto;
+  padding: clamp(1rem, 3vw, 2rem) 1rem 2.5rem;
+  text-align: left;
+}
+
+.exercises__head {
+  margin-bottom: 1.5rem;
+}
+
+.exercises__back {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.exercises__back:hover {
+  text-decoration: underline;
+}
+
+.exercises__title {
+  margin: 0 0 0.35rem;
+  font-size: clamp(1.35rem, 4vw, 1.85rem);
+}
+
+.exercises__error {
+  color: #dc2626;
+  font-size: 0.95rem;
+}
+
+.exercises__quiz {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.exercises__secondary {
+  margin-left: 0.75rem;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-h);
+  font: inherit;
+  cursor: pointer;
+}
+
+@media (max-width: 520px) {
+  .quiz__actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .exercises__secondary {
+    margin-left: 0;
+    margin-top: 0.5rem;
+  }
+}
+
+.back-arrow {
+  display: inline-block;
+  margin-right: 0.42rem;
+  color: #16a34a;
+  font-size: 1.05rem;
+  font-weight: 900;
+  line-height: 1;
+  transform: translateY(1px);
+}

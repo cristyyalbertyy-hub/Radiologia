@@ -1,0 +1,78 @@
+Defina a ciência da 'Radiologia' com base na sua etimologia.,"Ciência que estuda as radiações e a sua aplicação, tanto na área médica/veterinária como noutras áreas."
+Qual é a principal limitação da radiografia simples que justifica o uso de meios de contraste?,A dificuldade em identificar ou realçar estruturas que têm pouco contraste natural com os tecidos circundantes.
+Termo: Radiopaco,"Definição: Substância com número atómico elevado e alta absorção de raios X, resultando em contraste positivo (branco)."
+Termo: Radiolucente,"Definição: Substância com gravidade específica baixa que permite a passagem de raios X, resultando em contraste negativo (preto)."
+Em que princípio físico se baseia o diagnóstico por ultrassonografia?,Baseia-se na reflexão do som.
+"A ultrassonografia permite a visualização de imagens _____, ao contrário da radiografia estática.",Dinâmicas
+Indique uma vantagem fundamental da ultrassonografia em termos de segurança biológica.,Não utiliza radiação ionizante.
+"Qual a contribuição de Spallanzani, em 1794, para a história da ultrassonografia?",O estudo da orientação dos morcegos através do som.
+"O efeito _____, descoberto por Curie & Curie em 1880, é essencial para o funcionamento dos transdutores de ultrassom.",Piezoelétrico
+Que evento histórico em 1912 impulsionou a pesquisa de Richardson sobre objetos submersos via som?,O naufrágio do Titanic.
+Quem desenvolveu o primeiro gerador piezoelétrico de ultrassom em 1917?,Langevin & Chilowski.
+A introdução do ultrassom na medicina ocorreu em _____ por Dussik.,1942
+Quais são os três componentes fundamentais para a formação da imagem ecográfica?,"Fonte produtora de som, deteção do som e processamento da imagem."
+Por que razão se recomenda um jejum de 8 horas antes de uma ecografia abdominal?,Para diminuir a presença de alimento e gás no trato gastrointestinal ($TGI$).
+"No contexto de preparação para ecografia, porque deve ser evitada a ingestão de leite?",Porque o leite pode aumentar a quantidade de gases intestinais.
+Qual a recomendação relativa à micção antes de um exame ecográfico da pelve?,Não urinar pelo menos 1 a 2 horas antes do exame.
+Como a bexiga repleta auxilia o exame ecográfico hipogástrico?,Facilita a visualização da própria bexiga e dos órgãos adjacentes servindo como janela acústica.
+Quais são os três passos de preparação física imediata do paciente para ultrassonografia?,"Tricotomia, contenção e aplicação de gel."
+Mencione três tipos de decúbito utilizados para posicionar pequenos animais em ecografia.,Decúbito lateral (esquerdo/direito) e decúbito dorsal.
+Que posição é frequentemente utilizada para ultrassonografia em animais de grande porte?,Posição quadrupedal.
+Cite três parâmetros morfológicos avaliados durante um exame de ultrassonografia.,"Tamanho, forma e contornos/margens."
+O que avalia a 'Ecotextura' num exame ecográfico?,O padrão de distribuição dos ecos no parênquima do órgão.
+Indique duas áreas de aplicação da ultrassonografia além da cavidade abdominal.,Região cervical ventral e ultrassonografia ortopédica.
+A avaliação ecográfica do coração é tecnicamente denominada _____.,Ecocardiografia
+"A ultrassonografia do crânio, quando possível, denomina-se _____.",Ecoencefalografia
+Quem foram os cientistas que receberam o Prémio Nobel em 1979 pelo desenvolvimento da Tomografia Computorizada?,Allan Cormack e Godfrey Hounsfield.
+Em que ano Allan Cormack desenvolveu a teoria matemática para a Tomografia Computorizada?,1956
+Qual é a premissa técnica da Tomografia Computorizada (TAC) em relação aos ângulos de projeção?,Múltiplos raios X projetados em ângulos diferentes num único plano fornecem uma imagem superior à radiografia.
+Em que ano foram apresentadas as primeiras imagens de diagnóstico de crânio via TAC?,1971
+Mencione duas indicações principais para a realização de Ressonância Magnética (RM) em cães e gatos.,Patologias do parénquima cerebral e hérnias discais.
+Qual é a aplicação clínica de eleição para a Ressonância Magnética em equinos?,Diagnóstico de claudicações crónicas.
+Indique uma desvantagem logística significativa da Ressonância Magnética em medicina veterinária.,"A longa duração do exame, que pode estender-se por várias horas."
+"Nas imagens de RM pesadas em _____, os fluidos (como o LCR) aparecem com sinal brilhante (hiperintenso).",T2
+Como deve ser posicionado um cão para um scan espinal em RM?,Em decúbito dorsal sobre uma bobine espinal dedicada.
+Por que razão é crítico manter pacientes pequenos aquecidos (ex: mantas de lã) durante a RM?,Devido ao elevado risco de hipotermia causado pela anestesia geral prolongada.
+O que caracteriza o método de 'Cintigrafia'?,Injeção intravenosa de um radiofármaco que liberta radiação detetada por uma câmara especial.
+Que tipo de radiação é captada pela câmara num exame de medicina nuclear (cintigrafia)?,Raios gama.
+Qual a principal vantagem da cintigrafia em comparação com métodos puramente anatómicos?,"Deteta precocemente processos fisiológicos, inflamatórios e metabólicos."
+Qual é o isótopo radioativo mais comummente utilizado para imagem óssea em cintigrafia equina?,Tecnécio-$99m$ ($^{99m}Tc$).
+"No contexto de medicina nuclear, o que é um dosímetro?",Um dispositivo que mede a dose de radiação emitida pelo paciente após a administração do isótopo.
+Qual o limite de radiação ($\mu Sv/h$) para que um cavalo possa ser libertado após cintigrafia?,Abaixo de $4$ microsieverts por hora ($\mu Sv/h$).
+"Quanto tempo demora, geralmente, para a radiação de um cavalo baixar de $1 \mu Sv/h$ após cintigrafia?",Aproximadamente $48$ horas.
+O que significa a sigla PET em imagiologia médica?,Tomografia por Emissão de Positrões ($Positron$ $Emission$ $Tomography$).
+Qual a vantagem de fundir imagens PET com CT?,Correlacionar dados funcionais e metabólicos (PET) com dados anatómicos detalhados (CT).
+Como o computador cria o perfil de atenuação para o estudo PET num scanner combinado?,Extrai a informação de densidade dos detetores do scan de CT realizado previamente.
+Indique o tempo médio de duração da aquisição da fase PET num estudo de imagem.,Entre $20$ a $40$ minutos.
+Qual o objetivo da utilização de marcadores radiográficos ou réguas em exames ortopédicos?,Permitir medições precisas e compensar erros de ampliação da imagem.
+"Em RM, a presença de uma massa a infiltrar a vértebra _____ pode causar compressão da cauda equina.",$L6$
+O que sugere a presença de sinal hiperintenso em T2 no parênquima cerebral?,"Acumulação de fluido ou edema, característico de processos inflamatórios ou malformações."
+Que estrutura cervical pode estar aumentada em casos de processos inflamatórios agressivos detetados por RM?,Linfonodo retrofaríngeo.
+O 'Espectro Eletromagnético' agrupa radiações por comprimento de onda; os raios X situam-se entre que tipos de radiação?,Entre os raios gama (mais curtos) e a radiação ultravioleta.
+"Em medicina nuclear, o isótopo _____ é especificamente atraído por áreas de elevada atividade osteoblástica.",Tecnécio-$99m$
+A técnica de 'Ecografia' é classificada como uma técnica de anatomia _____.,Seccional
+Qual é a função do gel na ultrassonografia?,"Eliminar o ar entre o transdutor e a pele, permitindo a transmissão das ondas sonoras."
+Indique uma indicação comum para a realização de ecografia ocular.,Avaliação de descolamento de retina ou massas intraoculares quando o meio está opaco.
+A cintigrafia permite a localização de processos com precisão através da deteção da libertação de _____.,Radiação
+"Na Tomografia Computorizada, a 'gantry' refere-se a que parte do equipamento?",À estrutura circular que contém o tubo de raios X e os detetores que giram em torno do paciente.
+"Verdadeiro ou Falso: No PET/CT, a radiação do CT é utilizada para corrigir a atenuação dos fotões do PET.",Verdadeiro.
+Indique um exemplo de marcador radiofármaco usado para deteção de cancro em PET.,"Flúordeoxiglicose ($FDG$), embora o texto foque no processo de fusão e contraste intravenoso."
+A qualidade da imagem em RM depende do sinal proveniente dos átomos de _____ no corpo.,Hidrogénio
+Diferencie 'Ecotextura' de 'Ecogenicidade'.,"Ecogenicidade refere-se ao brilho (brancura) relativo, enquanto ecotextura refere-se à homogeneidade ou grão da imagem."
+Em que plano são adquiridas as imagens primárias de um CT convencional?,Plano transversal (ou axial).
+Qual a principal vantagem da RM na avaliação do sistema nervoso central?,"Excelente contraste entre substância branca, substância cinzenta e líquido cefalorraquidiano."
+"No exame de cintigrafia, como é administrado o isótopo radioativo?",Por via intravenosa ($EV$).
+O uso de 'sandbags' (sacos de areia) em exames de imagem serve para _____.,Auxiliar na contenção e manutenção da estabilidade da posição do paciente.
+"Em RM, o que pode causar uma 'alteração da gordura regional' em imagens patológicas?",Invasão por processos neoplásicos agressivos ou inflamação severa.
+A cintigrafia é frequentemente utilizada para diagnosticar patologias na circulação periférica _____.,Abdominal
+Qual o principal benefício da ultrassonografia na avaliação de grandes vasos?,Permite avaliar o fluxo sanguíneo em tempo real (frequentemente via Doppler).
+"Em TAC, como se minimiza a sobreposição de órgãos presente na radiografia?",Através da reconstrução de imagens em fatias ou cortes transversais finos.
+A 'Teoria Matemática' de Cormack para a TAC foi publicada em que ano?,1956
+O que caracteriza uma imagem de RM ponderada em T1?,Fluidos aparecem escuros (hipointensos) e a gordura aparece brilhante (hiperintensa).
+O termo 'Imagiologia' é sinónimo de que expressão clínica?,Diagnóstico por Imagem.
+"Na escala de cinzentos da ecografia, um órgão 'Anicoico' aparece com que cor?","Preto (ausência de ecos, típico de fluidos puros)."
+A ultrassonografia ortopédica é particularmente útil para avaliar que tipos de estruturas?,"Tecidos moles periarticulares, como tendões e ligamentos."
+Qual a principal contraindicação para a entrada de objetos metálicos na sala de Ressonância Magnética?,O forte campo magnético constante que pode atrair objetos ferromagnéticos com força perigosa (efeito projétil).
+A 'Arquitetura vascular' de um órgão é melhor avaliada por que técnica ecográfica específica?,Ultrassonografia Doppler.
+"O 'Urolito' na bexiga é identificado ecograficamente por ser uma estrutura _____, geralmente com sombra acústica posterior.",Hiperecogénica
+"Em medicina nuclear equina, que parte do corpo é mais frequentemente alvo de estudo cintigráfico para claudicações?",As extremidades distais dos membros.

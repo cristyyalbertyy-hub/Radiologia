@@ -1,0 +1,50 @@
+Qual é a base física para a formação da imagem na Tomografia Computorizada (TAC)?,A utilização de radiação X emitida por um tubo que roda $360^{\circ}$ em redor do paciente.
+"Na Tomografia Computorizada, o que representa cada pixel da imagem final?",A média da absorção dos tecidos nessa zona específica.
+Qual é a unidade de medida utilizada para exprimir a absorção de tecidos num pixel de TAC?,Unidades de Hounsfield.
+Como se designam as imagens digitais de secções transversais geradas pela TAC?,Cortes tomográficos.
+Qual é a principal vantagem da TAC em relação à radiografia convencional no estudo de áreas sobrepostas?,A capacidade de criar modelos tridimensionais e visualizar estruturas sem sobreposição.
+Por que razão é necessária a anestesia geral ou sedação profunda durante um exame de TAC?,Para garantir a imobilidade absoluta do paciente durante a aquisição das fatias de imagem.
+"No contexto da TAC, o que é o 'gantry'?",É a estrutura circular que contém o tubo de raios X e o sistema de detetores que rodam em redor do animal.
+"Diferença fundamental: Enquanto a radiografia produz uma imagem bidimensional de estruturas sobrepostas, a TAC produz imagens _____.",Seccionais ou transversais (fatias).
+Qual é a principal fonte de energia utilizada na Ressonância Magnética (RM) para excitar os átomos?,Ondas de radiofrequência.
+"Diferente da TAC, a Ressonância Magnética não utiliza _____ para a formação da imagem.",Radiação ionizante.
+Em que unidade é medida a potência do campo magnético de um aparelho de RM?,Tesla ($T$).
+Qual é a equivalência entre $1$ Tesla e a unidade Gauss?,$1 T = 10^4$ Gauss.
+"Na RM, quais são os átomos do corpo especificamente manipulados pelas ondas de rádio e pelo campo magnético?",Átomos de hidrogénio (protões).
+O que acontece aos protões de hidrogénio quando são estimulados por ondas de rádio num campo magnético?,Entram num estado energético maior e mudam a direção da sua magnetização.
+A imagem de RM resulta do alinhamento dos momentos magnéticos seguido pelo processo de _____.,Relaxamento.
+O que define o 'efeito de projétil' num ambiente de RM?,O lançamento perigoso de objetos ferromagnéticos em direção ao íman do scanner.
+Qual é o procedimento obrigatório antes de qualquer pessoa ou animal entrar na sala de RM?,O preenchimento e verificação de um checklist de segurança para detetar metais.
+Por que razão os implantes metálicos ferromagnéticos são perigosos durante a RM?,Podem deslocar-se da sua posição original ou sofrer aquecimento excessivo.
+"Se houver dúvida sobre a existência de metal desconhecido no corpo do animal, que exame deve ser feito antes da RM?",Radiografia.
+O que quantifica o cálculo de SAR (Specific Absorption Rate) na RM?,A capacidade do corpo do paciente em dissipar o calor gerado pela radiofrequência.
+Que medida auxiliar de arrefecimento deve ser usada em cães grandes durante a RM para evitar o sobreaquecimento?,Aplicação de sacos de gelo (cooling packs).
+Qual é o nível médio de ruído acústico produzido por um scanner de RM?,Entre $60$ a $90$ decibéis (dB).
+Que equipamento de proteção é essencial para o animal e para o staff que permaneça na sala de RM durante o scan?,Proteção auricular (tampões ou auscultadores especiais).
+A frequência utilizada na RM para produzir imagens é baseada em que cálculo físico?,Equação de Larmor.
+Qual é a principal diferença de foco entre a imagiologia avançada anatómica (TAC/RM) e a Medicina Nuclear?,"A Medicina Nuclear avalia a fisiologia e a função, enquanto as outras avaliam a anatomia."
+"Na Cintigrafia, o que são os 'hot spots'?",Áreas de captação aumentada do radiofármaco que indicam atividade metabólica intensa.
+Qual é o radioisótopo mais comummente utilizado na Cintigrafia óssea veterinária?,Tecnécio Tc-99m (ligado ao oxidronato ou MDP).
+"Diferente da radiologia, na Medicina Nuclear a fonte emissora de radiação é _____.",O próprio paciente (animal).
+Que tipo de radiação é emitida pelos radioisótopos e detetada pela câmara gama?,Raios gama.
+Indicação clínica: Por que razão a Cintigrafia é útil em claudicações de cavalos com exames radiográficos normais?,Permite detetar fraturas de stress que não são visíveis com raios X nos primeiros dias.
+"Em medicina equina, a Cintigrafia é especialmente indicada para lesões em que áreas de difícil visualização?",Coluna e pélvis.
+Qual é a principal desvantagem diagnóstica da Cintigrafia?,"É um exame pouco específico, não distinguindo facilmente entre fratura, infeção ou tumor."
+"Quanto à segurança biológica, o que deve ser feito com a urina de um animal que realizou Cintigrafia?",Deve ser manuseada com precaução extrema por ser radioativa.
+Quanto tempo deve o paciente permanecer em isolamento após um exame de Medicina Nuclear?,Até que ocorra o decaimento da meia-vida do isótopo para níveis seguros.
+O que significa a sigla PET no contexto da medicina nuclear?,Tomografia por Emissão de Positrões.
+Qual é o radioisótopo frequentemente utilizado em exames PET para avaliar o metabolismo da glucose?,FDG (Fludesoxiglicose).
+A tecnologia PET é frequentemente combinada com que outras modalidades para fundir dados anatómicos e funcionais?,TAC ou RM.
+"No PET, como se dispõem os detetores para adquirir a imagem?",Numa série de sensores cintilantes organizados em anel.
+Qual é a função do 'perfil de atenuação' num exame PET?,Corrigir a absorção dos fotões pelos tecidos (como o osso) para tornar a imagem mais precisa.
+Por que razão o paciente deve permanecer imóvel entre o scan de CT e o scan de PET na tecnologia híbrida?,Para garantir que as imagens funcionais e anatómicas possam ser fundidas (sobrepostas) com precisão.
+"Na RM, o que define a 'razão giromagnética'?",A capacidade de os átomos responderem a ondas de rádio num campo magnético.
+Qual é o risco biológico associado à exposição de fragmentos de projéteis (balas) num campo de RM?,"Migração do metal através dos tecidos, causando trauma interno."
+"Na TAC, o que acontece à radiação X que atravessa tecidos muito densos, como o osso?","Sofre uma atenuação elevada, resultando num valor de Hounsfield alto."
+Princípio de Segurança: O íman de um sistema de RM está _____ ligado.,Sempre.
+Cintigrafia: Que composto se liga a células prevalentes em áreas de elevado 'turnover' ósseo?,MDP (Difosfonato de metileno).
+"Na preparação para a Medicina Nuclear, que cuidado deve a equipa ter com o contacto físico?",Utilização de equipamento de proteção individual e limitação do tempo de exposição direta ao animal.
+"Em relação à resolução espacial, como se compara o PET com a Cintigrafia convencional?",O PET tem uma resolução espacial superior ($5$ a $10$ mm de espessura).
+"Na TAC, o que é o 'SFOV' (Scan Field of View)?",A área dentro do gantry onde os dados são adquiridos por todas as projeções e onde a imagem pode ser reconstruída.
+Qual é o principal componente de um aparelho de RM que requer câmaras de hélio e vácuo?,O íman supercondutor.
+Por que razão é crucial o controlo da temperatura em salas de TAC e RM?,Para prevenir o sobreaquecimento dos componentes eletrónicos e dos ímanes supercondutores.

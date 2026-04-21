@@ -1,0 +1,55 @@
+Qual é a influência da presença de líquidos na avaliação do traçado eletrocardiográfico?,Impede uma avaliação precisa do traçado do ECG.
+Como a variação das raças e a conformação corpórea afetam o exame de ECG?,Podem alterar o padrão de medidas de normalidade.
+Um ECG com traçado normal permite descartar categoricamente o aumento cardíaco?,"Não, um ECG normal não descarta o aumento cardíaco."
+"Na fisiologia cardíaca, o que define o processo de despolarização?",Contração do músculo cardíaco em resposta a um estímulo elétrico.
+"Durante a despolarização, qual é o estado elétrico do interior da célula em relação ao exterior?",O interior da célula torna-se positivo ($+$) em relação ao exterior.
+"Na fisiologia cardíaca, o que ocorre mecanicamente com o músculo durante a repolarização?",Ocorre o relaxamento do músculo cardíaco.
+"Durante a repolarização, o interior da célula torna a ficar _____ em relação ao exterior.",negativo
+Qual é o posicionamento padrão do paciente para a realização do ECG veterinário?,Decúbito lateral direito.
+"Para evitar artefactos no ECG, em que tipo de ambiente deve ser realizado o exame?",Num ambiente calmo.
+Qual é o valor de normalidade para a duração do complexo qRs em cães de pequeno porte?,"$0,05$ Segundos."
+Qual é a voltagem máxima considerada normal para o complexo qRs em cães pequenos?,"$2,5$ mV."
+"Em cães de grande porte, qual é o limite de tempo normal para o complexo qRs?","$0,06$ Segundos."
+Qual é a voltagem máxima de normalidade para o complexo qRs em cães grandes?,$3$ mV.
+O complexo qRs em gatos deve ter uma duração inferior ou igual a _____ segundos.,"$0,04$"
+Qual é a voltagem máxima de normalidade ($mV$) para o complexo qRs na espécie felina?,"$\le 0,9$ mV."
+Quais são as possíveis polaridades da onda T no eletrocardiograma de cães?,"Positiva, negativa ou bifásica."
+"Em cães, a voltagem da onda T não deve exceder _____ da voltagem da onda R.",$25 \%$
+Quais as formas que a onda T pode assumir no traçado de um gato normal?,"Positiva, negativa ou bifásica."
+"Em gatos, qual é a percentagem máxima da voltagem de R que a onda T pode atingir?",$33 \%$
+Qual é o limite absoluto de voltagem ($mV$) para a onda T em gatos?,"$\le 0,3$ mV."
+Qual é o intervalo PR de normalidade para a espécie canina?,"$0,06$ a $0,13$ segundos."
+Qual é o intervalo PR de normalidade para a espécie felina?,"$0,05$ a $0,09$ segundos."
+"Qual é o intervalo de normalidade para o segmento ST em cães, em termos de voltagem?","$-0,2 < ST < 0,15$ mV."
+Como deve apresentar-se o intervalo ST num gato saudável (sem patologia)?,Sem depressão ou elevação.
+A contração cardíaca é a resposta mecânica à _____ elétrica.,despolarização
+A resposta mecânica à repolarização elétrica do miocárdio é o _____.,relaxamento
+Termo: Despolarização,Definição: Inversão da polaridade celular (interior torna-se positivo) que gera a contração muscular.
+Termo: Repolarização,Definição: Retorno da célula ao estado elétrico de repouso (interior negativo) resultando no relaxamento muscular.
+"Cães Grandes - Complexo qRs: $0,06$ Segundos e _____ mV.",$3$
+"Gatos - Complexo qRs: $\le$ _____ Segundos e $\le 0,9$ mV.","$0,04$"
+"Em cães, se a onda R mede $2$ mV, qual é a voltagem máxima normal da onda T?","$0,5$ mV (correspondente a $25 \%$ de R)."
+"No gato, a onda T é considerada normal se for inferior a $33 \%$ de R ou menor/igual a _____ mV.","$0,3$"
+O intervalo PR no cão mede o tempo entre o início da ativação auricular e o início da ativação _____.,ventricular
+"Duração normal do intervalo PR no cão: _____ a $0,13$ segundos.","$0,06$"
+"Duração normal do intervalo PR no gato: $0,05$ a _____ segundos.","$0,09$"
+"A análise do ECG deve ser precedida, se necessário, de _____.",terapia prévia
+Verdadeiro ou Falso: O posicionamento em decúbito lateral esquerdo é o padrão para ECG.,Falso (o padrão é decúbito lateral direito).
+Qual complexo eletrocardiográfico representa a despolarização ventricular?,Complexo qRs.
+A onda P (implícita no contexto de intervalos) precede qual processo mecânico?,Contração auricular (despolarização auricular).
+A voltagem do complexo qRs em cães pequenos é de _____ mV.,"$2,5$"
+A voltagem do complexo qRs em cães grandes é de _____ mV.,$3$
+"A desviação do segmento ST no cão é considerada normal entre _____ e $0,15$ mV.","$-0,2$"
+Na espécie _____ não deve haver elevação ou depressão do segmento ST.,felina (gatos)
+O relaxamento miocárdico está associado à _____ elétrica.,repolarização
+O interior da célula fica _____ em relação ao exterior durante a contração.,positivo ($+$)
+A variabilidade racial pode induzir erros na interpretação de medidas se não for considerada. Verdadeiro ou Falso?,Verdadeiro.
+A onda T bifásica é um achado normal tanto em cães como em gatos. Verdadeiro ou Falso?,Verdadeiro.
+A onda T pode ser _____ (apontando para baixo) e ainda ser considerada normal no cão.,negativa
+"Se um gato apresenta uma onda T de $0,4$ mV, este valor é considerado _____.","anormal (o limite é $\le 0,3$ mV)."
+"Um intervalo PR de $0,15$ segundos num cão é considerado _____.","prolongado (o normal é até $0,13$ segundos)."
+"Um intervalo PR de $0,04$ segundos num gato é considerado _____.","curto (o normal é de $0,05$ a $0,09$ segundos)."
+"O complexo qRs de $0,08$ segundos num cão de grande porte indica um atraso na condução _____.",ventricular
+"O complexo qRs de $0,05$ segundos num gato é considerado _____.","prolongado (o limite é $\le 0,04$ segundos)."
+Qual é a principal limitação do ECG no diagnóstico de cardiomegalias?,Um traçado normal não exclui a presença de aumento cardíaco.
+O que deve ser garantido em relação ao ambiente para minimizar o stress do animal durante o ECG?,Que o ambiente seja calmo.

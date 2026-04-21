@@ -1,0 +1,68 @@
+.app-shell {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 100svh;
+  width: 100%;
+  position: relative;
+  /* Evita que o titulo inicial fique por baixo da barra (logo + Sair) */
+  padding-top: 3.75rem;
+}
+
+.app-topbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.65rem 0.7rem;
+  pointer-events: none;
+}
+
+.app-topbar > * {
+  pointer-events: auto;
+}
+
+.app-brand {
+  display: flex;
+  align-items: center;
+}
+
+.app-brand__logo {
+  width: clamp(56px, 9vw, 84px);
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.14);
+  opacity: 0.82;
+}
+
+.app-topbar__logout {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text-h);
+  font: inherit;
+  font-size: 0.78rem;
+  padding: 0.35rem 0.55rem;
+  cursor: pointer;
+  opacity: 0.85;
+}
+.app-topbar {
+  backdrop-filter: blur(8px);
+}
+
+.app-brand__logo {
+  border-radius: 12px;
+  box-shadow: var(--shadow-soft);
+}
+
+.app-topbar__logout {
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  padding: 0.42rem 0.7rem;
+}
