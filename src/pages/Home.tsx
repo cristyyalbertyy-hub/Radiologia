@@ -6,7 +6,11 @@ export function Home() {
   return (
     <div className="home">
       <header className="home__header">
-        <h1 className="home__title">Tecnicas de Diagnostico Vet</h1>
+        <h1 className="home__title">
+          Tecnicas de
+          <br />
+          Diagnostico Vet
+        </h1>
         <p className="home__subtitle">
           Escolha uma especialidade para aceder a vídeo, podcast, infografia e
           questionário.
