@@ -11,14 +11,19 @@
 
 .app-topbar {
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
+  top: 0.45rem;
+  left: 0.6rem;
+  right: 0.6rem;
   z-index: 5;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.65rem 0.7rem;
+  padding: 0.5rem 0.7rem;
+  border-radius: 14px;
+  background: rgba(5, 8, 20, 0.92);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 24px rgba(2, 6, 23, 0.38);
+  backdrop-filter: blur(8px);
   pointer-events: none;
 }
 
@@ -32,37 +37,23 @@
 }
 
 .app-brand__logo {
-  width: clamp(56px, 9vw, 84px);
+  width: clamp(40px, 7vw, 58px);
   height: auto;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.14);
-  opacity: 0.82;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 3px 10px rgba(2, 6, 23, 0.35);
+  opacity: 0.95;
 }
 
 .app-topbar__logout {
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  background: var(--surface);
-  color: var(--text-h);
-  font: inherit;
-  font-size: 0.78rem;
-  padding: 0.35rem 0.55rem;
-  cursor: pointer;
-  opacity: 0.85;
-}
-.app-topbar {
-  backdrop-filter: blur(8px);
-}
-
-.app-brand__logo {
-  border-radius: 12px;
-  box-shadow: var(--shadow-soft);
-}
-
-.app-topbar__logout {
-  border: none;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.08);
   color: #fff;
+  font: inherit;
+  font-size: 0.8rem;
   font-weight: 600;
-  padding: 0.42rem 0.7rem;
+  padding: 0.4rem 0.7rem;
+  cursor: pointer;
+  opacity: 0.95;
 }
